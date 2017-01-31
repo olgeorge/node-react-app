@@ -133,7 +133,7 @@ class MessageSender extends React.Component {
 
   getDefaultState() {
     return {
-      serviceEndpoint: 'http://localhost:3000/api/sendMessage',
+      serviceEndpoint: 'http://localhost:8080/api/sendMessage',
       recipientIds: [],
       messageSubject: '',
       messageBody: '',

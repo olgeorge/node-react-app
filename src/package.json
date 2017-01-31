@@ -16,6 +16,7 @@
     "express": "latest",
     "lodash": "^4.17.4",
     "log4js": "^1.1.0",
+    "react-tap-event-plugin": "^1.0.0",
     "material-ui": "^0.16.7",
     "material-ui-chip-input": "^0.12.1",
     "nodemon": "~1.11.0",

@@ -4,6 +4,7 @@
   "author": "olgeorge",
   "version": "0.0.1",
   "scripts": {
+    "prestart": "webpack -d",
     "start": "nodemon -e js,jsx,html --harmony-async-await server.js"
   },
   "dependencies": {
@@ -16,7 +17,7 @@
     "express": "latest",
     "lodash": "^4.17.4",
     "log4js": "^1.1.0",
-    "react-tap-event-plugin": "^1.0.0",
+    "react-tap-event-plugin": "^2.0.1",
     "material-ui": "^0.16.7",
     "material-ui-chip-input": "^0.12.1",
     "nodemon": "~1.11.0",

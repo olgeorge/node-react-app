@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.15.3",
-    "babel": "^3.10.3",
+    "babel": "^6.5.2",
     "babel-loader": "^6.2.10",
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-react": "^6.22.0",
